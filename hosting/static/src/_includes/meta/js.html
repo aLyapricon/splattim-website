@@ -1,0 +1,5 @@
+{% if page.custom-js %}
+{% for js_file in page.custom-js %}
+<script src='{{ js_file }}?{{site.time | date: '%s%N'}}' type="text/javascript"></script>
+{% endfor %}
+{% endif %}

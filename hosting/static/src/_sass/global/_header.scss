@@ -1,0 +1,18 @@
+.page-header {
+    .navbar .navbar-brand {
+        margin-left: 0;
+
+        a {
+            margin-top: 10pt;
+            color: #fff;
+            font-weight: 700;
+            font-size: 12pt;
+        } 
+    } 
+
+    padding: 1rem 1.5rem;
+    background-color: $color-woomy-green;
+    background: $color-woomy-green
+        url('../img/global/bg-wavy.png') center/100px repeat;
+    
+}

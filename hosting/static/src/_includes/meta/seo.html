@@ -1,0 +1,32 @@
+<meta content="{{ site.data.seo.keywords }}" name=keywords />
+<meta content="{{ site.data.seo.author }}" name=author />
+<meta content="{{ site.data.seo.author }}" name=publisher />
+<meta content="{{ site.data.seo.author }}" name=copyright />
+<meta content="{{ site.data.seo.keywords }}" name=robots />
+<meta content="index, follow" name=robots />
+<meta content=all name=robots />
+
+<meta content="{% translate page.title %}" itemprop=name />
+<meta content="{% translate page.description %}" itemprop=description />
+<meta content="{{ site.data.seo.share-image }}" itemprop=image />
+
+<meta content="company" property="og:type" />
+<meta content="{{ site.data.seo.site-url }}" property="og:url" />
+<meta content="{{ site.data.seo.site-name }}" property="og:site_name" />
+<meta content="{% translate page.title %}" property="og:title" />
+<meta content="{% translate page.description %}" property="og:description" />
+<meta content="{{ site.data.seo.share-image }}" property="og:image" />
+<meta property="og:locale" />
+{% if site.data.seo.fb-appid %}
+<meta property="fb:app_id" content="{{ site.data.seo.fb-appid }}">
+{% endif %}
+
+<meta content="summary_large_image" name="twitter:card" />
+<meta content="{{ site.data.seo.site-url }}" name="twitter:url" />
+<meta content="{% translate page.title %}" name="twitter:title" />
+<meta content="{% translate page.description %}" name="twitter:description" />
+<meta content="{{ site.data.seo.share-image }}" name="twitter:image" />
+
+{% if site.data.seo.ios-appid %}
+<meta content="app-id={{ site.data.seo.ios-appid }}" name=apple-itunes-app />
+{% endif %}

@@ -1,0 +1,113 @@
+---
+---
+
+@import "../../node_modules/bulma/sass/utilities/mixins.sass";
+@import "../_sass/global/_colors.scss";
+
+.lp-hero {
+    background-color: $color-woomy-green;
+    background: $color-woomy-green
+        url('../img/global/bg-wavy.png') center/100px repeat;
+
+    .splat-tim-circle {
+        background-color: #fff;
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+        overflow: hidden;
+        margin: 0 auto 0 auto;
+    }
+
+    h1, p {
+        color: #fff;
+    }
+
+    h1 {
+        line-height: 1.2;
+        margin-top: 19px;
+        text-align: center;
+        font-weight: 700;
+        font-size: 40pt;
+    }
+
+    p.subline {
+        text-align: center;
+        font-weight: 700;
+        font-size: 16pt;
+    }
+
+    .ok-google {
+        margin-top: 25px;
+        margin-bottom: 10px;
+        text-align: center;
+
+        p {
+            background-color: #fff;
+            color: #444;
+            display: inline-block;
+            margin: 0 auto 0 auto;
+            border-radius: 20px;
+            padding: 10px 20px;
+        }
+    }
+}
+
+.lp-form {
+    .form-container {
+        max-width: 400px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+
+    h2 {
+        font-weight: 700;
+        font-size: 16pt;
+        margin-bottom: 15px;
+        margin-top: 8px;
+    }
+
+    #mc_embed_signup {
+        margin-top: 35px;
+    }
+
+    .email-field {
+        label {
+            color: $color-woomy-dark-green;
+            display: block;
+            margin-bottom: 5px;
+        }
+    }
+
+    p.legal {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .button.is-primary {
+        margin-top: 10px;
+
+        background-color: $color-woomy-dark-green;
+        &:hover {
+            background-color: $color-woomy-green;
+        }
+    }
+}
+
+.lp-info {
+    background-color: #f1f1f1;
+
+    li {
+        text-align: center;
+    }
+}
+
+footer {
+    background-color: #f1f1f1;
+
+    .footer-navbar .navbar-menu {
+        .navbar-start {
+            justify-content: center;
+            margin: auto;
+        }
+    }
+}

@@ -1,0 +1,41 @@
+---
+layout: landingpage
+---
+
+<main>
+    <header class="hero lp-hero">
+        <div class="hero-body">
+            <div class="body-content">
+                <div class="splat-tim-circle">
+                    <img src="/assets/img/global/tim.png" alt="The best photo of Splat TIm that has ever been taken.">
+                </div>
+                <h1>{% translate content.index-woomy.intro.title %}</h1>
+                <p class="subline">{% translate content.index-woomy.intro.subline %}</p>
+                <div class="ok-google">
+                    <p>{% translate content.index-woomy.intro.ok-google %}</p>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section class="section lp-form">
+        <div class="container">
+            <div class="form-container">
+                <header>
+                    <h2>{% translate content.index-woomy.signup.title %}</h2>
+                    <p>{% translate content.index-woomy.signup.subline %}</p>
+                </header>
+                {% include elements/landingpage.woomy.email-signup.html %}
+            </div>
+        </div>
+    </section>
+    <section class="section lp-info">
+        <div class="container">
+            <ul>
+                <li>{% translate content.index-woomy.credits.developed-by %}</li>
+                <li>{% translate content.index-woomy.credits.data-from %}</li>
+                <li>{% translate content.index-woomy.credits.github %}</li>
+            </ul>
+        </div>
+    </section>
+</main>
+{% include elements/page.footer.html %}

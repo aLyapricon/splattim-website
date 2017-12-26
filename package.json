@@ -1,0 +1,21 @@
+{
+  "name": "splattim-website",
+  "version": "0.0.0",
+  "license": "none",
+  "scripts": {
+    "setup": "npm run setup:static",
+    "setup:static": "npm run --prefix hosting/static jekyll:setup",
+    "watch:static": "npm run --prefix hosting/static jekyll:serve",
+    "build:live": "npm run build:static:live",
+    "build:staging": "npm run build:static:staging",
+    "build:static:live": "npm run --prefix hosting/static jekyll:build:live",
+    "build:static:staging": "npm run --prefix hosting/static jekyll:build:staging",
+    "copy": "npm run copy:static",
+    "copy:static": "cp -r './hosting/static/build/' './hosting/build'",
+    "firebase:live": "firebase use splattim-a1504 && firebase deploy --only hosting",
+    "firebase:staging": "TODO",
+    "deploy:live": "npm run build:live && npm run copy && npm run firebase:live",
+    "deploy:staging": "npm run build:staging && npm run copy && npm firebase:staging"
+  },
+  "private": true
+}

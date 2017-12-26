@@ -1,0 +1,53 @@
+# global
+
+global:
+
+  title: Splat Tim
+  fallback-desciption: An Action for Google Assistant
+
+  navigation:
+    home: Home
+    contact: Contact
+    privacy: Privacy
+
+  languages:
+    en: English
+
+# pages meta data
+
+pages: 
+
+  e404:
+    title: 404 • Splat Tim
+
+  index:
+    title: Splat Tim – An Action for Google Assistant
+    description: Install Splat Tim to get the freshest Splatoon related infos with Google Assistant.
+
+  contact:
+    title: Contact • Splat Tim
+    description: Find out how to contact the maker of Splat Tim.
+
+  privacy:
+    title: Privacy • Splat Tim
+    description: Privacy information for Splat Tim.
+
+# content
+
+content:
+
+  index-woomy:
+    intro:
+      title: Splat Tim
+      ok-google: Ok Google, talk to Splat Tim!
+      subline: An Action for your Google Assistant.
+    signup:
+      title: Waiting for players...
+      subline: Splat Tim is currently in review by Google. Get notified when the Action is available for your Google Assistant.
+      email-input-label: Email Address
+      legal-text: By signing up you agree to the <a href="/privacy/">privacy policy</a>.
+      submit-button-label: Sign me up!
+    credits:
+      developed-by: Splat Tim is developed by <a href="https://twitter.com/marcorei">marcorei</a>
+      data-from: Data comes from the legendary <a href="https://splatoon2.ink">Splatoon2.ink</a> API ❤️
+      github: Open source on <a href="https://github.com/marcorei/splattim-fulfillment">Github</a>

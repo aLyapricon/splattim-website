@@ -1,0 +1,15 @@
+{
+  "name": "splattime-website-static",
+  "version": "0.0.0",
+  "license": "none",
+  "scripts": {
+    "jekyll:setup": "bundle install && npm install",
+    "jekyll:serve": "JEKYLL_ENV=development bundle exec jekyll serve --host 0.0.0.0",
+    "jekyll:build:live": "JEKYLL_ENV=live bundle exec jekyll build",
+    "jekyll:build:staging": "JEKYLL_ENV=staging bundle exec jekyll build"
+  },
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.6.1"
+  }
+}
