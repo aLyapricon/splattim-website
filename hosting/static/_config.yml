@@ -33,7 +33,7 @@ plugins:
 source: src
 destination: build
 
-languages: ["en"]
+languages: ["en", "de"]
 exclude_from_localizations: ["assets/css", "assets/img", "assets", "404.html", "*.js"]
 
 # Include _pages to tidy things up

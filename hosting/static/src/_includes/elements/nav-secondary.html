@@ -4,18 +4,18 @@
 <a class="navbar-item" href="{% translate_link privacy %}">
     {% translate global.navigation.privacy %}
 </a>
+<a class="navbar-item" href="{% translate_link commands %}">
+    {% translate global.navigation.commands %}
+</a>
+
 <!-- <a class="navbar-item" href="{% translate_link terms %}">
     {% translate global.navigation.terms %}
 </a> -->
-{% comment %}
 
-    <!-- Remove wrapping comment to activate language navigation -->
-    {% if site.lang == "de" %}
-        {% capture link1 %}/en{{ page.url}}{% endcapture %}
-        <a href="{{ link1 }}" >{% translate global.languages.en %}</a>
-    {% elsif site.lang == "en" %}
-        {% capture link2 %}{{ page.url  }}{% endcapture %}
-        <a href="{{ link2 }}" >{% translate global.languages.de %}</a>
-    {% endif %}
-
-{% endcomment %}
+{% if site.lang == "de" %}
+    {% capture link1 %}{{ page.url }}{% endcapture %}
+    <a class="navbar-item" href="{{ link1 }}" >{% translate global.languages.en %}</a>
+{% elsif site.lang == "en" %}
+    {% capture link2 %}/de{{ page.url }}{% endcapture %}
+    <a class="navbar-item" href="{{ link2 }}" >{% translate global.languages.de %}</a>
+{% endif %}

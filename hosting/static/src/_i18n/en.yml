@@ -9,9 +9,11 @@ global:
     home: Home
     contact: Contact
     privacy: Privacy
+    commands: Examples
 
   languages:
     en: English
+    de: Deutsch
 
 # pages meta data
 
@@ -22,7 +24,7 @@ pages:
 
   index:
     title: Splat Tim – An Action for Google Assistant
-    description: Install Splat Tim to get the freshest Splatoon related infos with Google Assistant.
+    description: Talk to Splat Tim to get the freshest Splatoon related infos with Google Assistant.
 
   contact:
     title: Contact • Splat Tim
@@ -31,6 +33,10 @@ pages:
   privacy:
     title: Privacy • Splat Tim
     description: Privacy information for Splat Tim.
+
+  commands:
+    title: Examples • Splat Tim
+    description: A list of questions that Splat Tim can answer for you.
 
 # content
 
@@ -48,6 +54,6 @@ content:
       legal-text: By signing up you agree to the <a href="/privacy/">privacy policy</a>.
       submit-button-label: Sign me up!
     credits:
-      developed-by: Splat Tim is developed by <a href="https://twitter.com/marcorei">marcorei</a>
+      developed-by: Splat Tim is developed by <a href="https://twitter.com/marcorei">@marcorei</a>
       data-from: Data comes from the legendary <a href="https://splatoon2.ink">Splatoon2.ink</a> API ❤️
       github: Open source on <a href="https://github.com/marcorei/splattim-fulfillment">Github</a>
