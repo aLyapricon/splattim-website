@@ -8,9 +8,11 @@
     {% translate global.navigation.commands %}
 </a>
 
-<!-- <a class="navbar-item" href="{% translate_link terms %}">
+{% comment %}
+<a class="navbar-item" href="{% translate_link terms %}">
     {% translate global.navigation.terms %}
-</a> -->
+</a>
+{% endcomment %}
 
 {% if site.lang == "de" %}
     {% capture link1 %}{{ page.url }}{% endcapture %}
