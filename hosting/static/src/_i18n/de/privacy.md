@@ -1,68 +1,68 @@
 # Privacy policy
 
-SPLAT TIM is an application created by Markus Riegel. I take your privacy seriously and would like to explain to you what data this app gathers and what it's used for.
+SPLAT TIM ist eine Applikation, die von Markus Riegel entwickelt wird. Ich nehme den Schutz deiner Daten sehr ernst und möchste Dir erklären, welche Daten SPLAT TIM erhebt und wofür sie genutzt werden.
 
 ## 1. Subject of this data privacy statement
 
-This data privacy statement applies to the SPLAT TIM website and the SPLAT TIM Action for Google Assistant. The privacy statement regulates how I handle your personal data.
+Diese Datenschutzerklärung gilt für die SPLAT TIM website und die SPLAT TIM Action für den Google Assistant. Diese Datenschutzerklärung regelt, wie ich mit Deinen personenbezogenen Daten umgehe.
 
-## 2. Gathering and using data and transmitting it to third parties
+## 2. Erhebung, Nutzung von Daten und Übermittlung an Dritte
 
-### a. Data gathered with the use of the Splat Tim Action for Google Assistant
+### a. Erhobene Daten in Zusammenhang mit der Nutzung der SPLAT TIM Action für den Google Assistant
 
-- The data gathered includes the input you provide to the Google Assistant.
-- You access the SPLAT TIM Action for Google including by speech input, text input or tapping on user interface elements display in the Google Assistant.
-- Furthermore, any anonymised tracking data on user behaviour may be gathered by means of Google Assitant, Actions on Google, Dialogflow, Firebase or Amazon Web Services (see below)
+- Die erhobenen Daten umfassen die Nutzereingaben im Google Assistant,
+- wenn du auf die SPLAT TIM Action für Google zugreifst, zum Beispiel via Spracheingabe, Texteingabe oder indem du mit Interface-Elementen interagierst, die der Google Assistant anzeigt.
+- Darüber hinaus können gegebenenfalls anonymisierte Tracking-Daten zum Nutzverhalten durch den Google Assitant, Actions on Google, Dialogflow, Firebase oder Amazon Web Services gesammelt werden (vergleiche nachfolgend)
 
-### b. Scope of the processing and use of personal data.
+### b. Umfang der Verarbeitung und Nutzung personenbezogener Daten
 
-I use personal data to
-- Provide the range of services offerd by SPLAT TIM, extend the latter and to fulfil the requirements of the users;
-- operate and improve SPLAT TIM;
-- comply with legal obligations.
+Ich nutze personenbezogene Daten, um
+- die Leistungen von SPLAT TIM erbringen zu können, diese laufen auszuweiten und die Anforderungen der Nutzer zu erfüllen;
+- SPLAT TIM zu betreiben und zu verbessern;
+- meinen rechtlichen Pflichten nachzukommen.
 
-I might draw upon your data to communicate with you. Fore example to provide information about the review status of SPLAT TIM or updates to the services.
+Unter Umständen nutze ich deine Daten um mit dir zu kommunizieren. Zum Beispiel um informationen über den Review-Status oder Updates von SPLAT TIM zu kommunizieren.
 
 ### c. Newsletter
 
-In so far not already admissible in accordance with the foregoing provisions, I shall only send you the newsletter by email, containing up-to-date information, new features of SPLAT TIM or futhermore interessting services in connection to SPLAT TIM only following prior subscription via the SPLAT TIM website. Within the scope of the registration you agree to you data being processed for the purpose of sending emails. You, moreover, agree that data on your user behaviour (namely the opening and clicking of links provided in the e-mail) is gathered and processed by me, in order to thereby match the content of the bulk emails with your requirements, e.g. if you click multiple times on links on a topic I may take this into account in future bulk emails. Should you subsequently no longer wish to receive a newsletter from SPLAT TIM, you can unsubscribe at any time. You find a link to unsubscribe in every newsletter. Or send an email with your request to woomy@splat-tim.com and I'll remove you from the list.
+Soweit nicht bereits nach vorstehenden Regelungen zulässig, versende ich Newsletter per E-Mail mit aktuellen Informationen, neuen Features von SPLAT TIM und weitere interessante Angebote im Zusammenhang mit SPLAT TIM nur nach vorheriger Anmeldung über die SPLAT TIM Webseite. Die Anmeldung ist freiwillig. Im Rahmen der Anmeldung willigst Du in die Verarbeitung der angegebenen Daten zum Versand der E-Mails ein. Ferner willigst Du ein, dass Daten über Dein Nutzungsverhalten (nämlich das Öffnen und Anklicken von Links in der E-Mail, von mir erhoben und verarbeitet wird um damit die Inhalte der Mailings auf deinen Bedarf abzustimmen, z. B. wenn Du mehrfach Links zu einem Thema anklickst kann ich dies in den künftigen Mailings berücksichtigen). Solltest Du später keine Newsletter mehr von SPLAT TIM erhalten wollen, kannst Du dem jederzeit widersprechen. Selbstverständlich findest du in jedem Newsletter einen Abmelde-Link.
 
-## 3. The transmission of personal data
+## 3. Übermittlung personenbezogener Daten
 
-a. SPLAT TIM reansmits your data in the following scope: I cooperate with providers who create and compile statistics, as well as with providers of IT services (e.g. computing centers, providers of hosting, security, database services). Such technical service provides only have access to your data to the extends that is necessary for fulfilling their task. The technical service providers are obliged to handle your data in line with this data privacy statement and the applicable data privacy laws.
+a. SPLAT TIM übermittelt deine personenbezogenen Daten in folgendem Umfang: Wir kooperieren mit Anbietern, die Statistiken erstellen und zusammenstellen, sowie Anbietern von IT-Dienstleistungen (z. B. Rechenzentren, Anbieter von Hosting-, Sicherungs- und Datenbankdiensten). Diese technischen Dienstleister haben nur in dem Ausmaß auf deine Daten Zugriff, der für die Erfüllung ihrer Aufgaben erforderlich ist. Die technischen Dienstleister sind dazu verpflichtet, deine Daten in Übereinstimmung mit dieser Datenschutzerklärung und den geltenden Datenschutzgesetzen zu behandeln.
 
-b. In addition, we transmit your personal data to third parties in so far as you have explicitly consented to such transmission, in regard to which we will inform you on the purpose of passing on the data and the use of it by the third party/third parties.
+b. Außerdem übermittel ich deine personenbezogenen Daten an Dritte, sofern Du in die Übermittlung ausdrücklich eingewilligt hast, wobei ich dich über den Zweck der Weitergabe und die Nutzung der Daten durch den/die Dritten informieren werde.
 
-c. Except for the cases outlined in Clauses 3a and 3b, I do not transmit your data to third parties. Exceptions apply
+c. Von den Fällen der Ziffern 3a und 3b abgesehen übermittel ich deine Daten grundsätzlich nicht an Dritte. Ausnahmen gelten,
 
-- if and to the extent that it is necessary for handling the existing contractual relationships or for enforcing any claims that we are entitled to assert;
-- if I'm statutorily obliged to do so, in particular if we are correspondingly obliged to do so by a court or competent authority;
-- if enquiries from official bodies are concerned, in particular criminal prosecution and supervisory authorities, if and to the extent that the latter is necessary to avert risk to public safety and order, as well to prosecute crimes.
-Data in anonymised form may be transmitted to third parties for statistical purposes.
+- wenn und soweit es zur Durchführung der bestehenden Vertragsverhältnisse oder zur Durchsetzung uns zustehender Ansprüche notwendig ist,
+- wenn ich gesetzlich dazu verpflichtet bin, insbesondere wenn ich durch ein Gericht oder zuständige Behörde entsprechend verpflichtet werde,
+- wenn es sich um Anfragen von behördlichen Organen, insbesondere Strafverfolgungs- und Aufsichtsbehörden, handelt, wenn und soweit dies zur Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung sowie zur Verfolgung von Straftaten erforderlich ist.
+- Daten in anonymisierter Form können zu statistischen Zwecken an Dritte übermittelt werden.
 
-## 4. Third parties used by SPLAT TIM
+## 4. Von SPLAT TIM genutzte Dienste Dritter
 
 a. Actions for Google
-I use Actions for Google to invoke an action to fulfill the request that you provided by using Google Assistant. Google Assistant and Actions for Google are products by Google. You can find the privacy statement of Google at https://www.google.com/policies/privacy/
+Ich nutze Actions for Google um den Anfrage, die du durch den Google Assistant gestellt hast, zu erfüllen. Der Google Assistant und Actions for Google sind Produkte von Google. Die Datenschutzerklärung von Google findest Du unter https://www.google.com/policies/privacy/
 
 b. Dialogflow
-In addition, I use Dialogflow to convert your input into Actions and Parameters using machine learning. Dialogflow analyzeds what you said or wrote and helps me to repond in the most useful way. The data transmitted by Dialogflow to SPLAT TIM contains no persistent identifiers.
-Dialogflow is a subsidiary of Google.
-You can find out more about Dialogflow privacy and terms at https://dialogflow.com/terms-and-privacy
+Zudem nutze ich Dialogflow um deine Eingabe mit Hilfe von Machine-Learning-Technologie in Aktionen und Parameter umzuwandeln. Dialogflow analysiert, was du gesgat oder geschrieben hast und hilft mir, möglichst hilfreich zu antworten. Die von Dialogflow übermittelten Daten enthalten keine persistenten Identifikatoren.
+Dialogflow ist eine Google-Tochter. Nähere Informationen über die Datenerhebung und Verarbeitung findest Du in der Datenschutzerlärung von Dialogflow unter https://dialogflow.com/terms-and-privacy
 
 c. AWS (Amazon Web Services)
-I use AWS to process the input provided by Dialogflow. This input is used to filter data collected from the splatoon2.ink API and return useful information. AWS is a subsidiary of Amazon.com, Inc. or a company affiliated with the latter (“Amazon.com”). You can obtain further information in the data privacy provisions of AWS at https://aws.amazon.com/privacy/
+Ferner nutze ich AWS um die von Dialogflow erhaltenen Daten zu verarbeiten. Diese Daten werden genutzt, um Informationen zu filtern, die von splatoon2.ink geladen werden und nützliche Informationen zurückzugeben.
+AWS ist eine Tochtergesellschaft der Amazon.com, Inc. oder eines mit diese Gesellschaft berbundenes Unternehmen. Weitere Informationen findest DU in den Datenschutzbestimmungen von AWS unter https://aws.amazon.com/privacy/
 
 d. Firebase
-In addition, I use Firebase for hosting the SPLAT TIM website. Firebase is a subsidiary of Google. You can find the privacy statement of Google at https://www.google.com/policies/privacy/
+Ich nutze Firebase, um die SPLAT TIM Website zu hosten. Firebase ist eine Google-Tocher. Die Datenschutzerklärung von Google findest Du unter https://www.google.com/policies/privacy/
 
 e. Mailchimp
-I use MailChimp to administer a database with e-mail addresses, as well as to send e-mails. The service administers data when an e-mail that I have sent was read, or when links contained in it were opened. MailChimp is a service of Rocket Science Group LLC. You can find further information on MailChimp at https://mailchimp.com/legal/privacy/
+Ich nutze MailChimp zur Verwaltung einer Datenbank mit E-Mail-Adressen, sowie zum Versenden von E-Mails. Der Dienst verwaltet Daten darüber, wann eine E-Mail, die wir verschickt haben gelesen wurde, oder darin enthaltene Links geöffnet wurden. MailChimp ist ein Dienst der Rocket Science Group LLC. Weitere Informationen zu MailChimp findest Du unter https://mailchimp.com/legal/privacy/
 
 ## 5. Deletion of data
 
-If your data is no longer required for the above-mentioned purposes or on other legal grounds, it is deleted.
+Wenn Deine Daten nicht mehr für die oben genannten Zwecke oder aus anderen Rechtsgründen benötigt werden, werden sie gelöscht.
 
 ## 7. Questions
 
-You can request and receive information on the data stored with SPLAT TIM by you at any time. If you have any questions on the data privacy principles, please get in touch with me at: woomy@splat-tim.com
+Du kannst jederzeit Auskunft über die von SPLAT TIM gespeicherten Daten erhalten. Bei Fragen zu den Datenschutzgrundsätzen kontaktiere mich bitte unter woomy@splat-tim.com
