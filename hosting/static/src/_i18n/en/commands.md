@@ -1,6 +1,6 @@
 # Examples
 
-| User says... | Spla Tim does it |
+| User says... | Splat Tim does it |
 | --- | --- |
 | "Talk to Splat Tim" | Start talking to Splat Tim |
 | "Show me the current stages for ranked battles" | List the current stages for ranked. Can also be used for regular and league |
