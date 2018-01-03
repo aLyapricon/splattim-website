@@ -1,8 +1,8 @@
-# Privacy policy
+# Datenschutz
 
 SPLAT TIM ist eine Applikation, die von Markus Riegel entwickelt wird. Ich nehme den Schutz deiner Daten sehr ernst und möchste Dir erklären, welche Daten SPLAT TIM erhebt und wofür sie genutzt werden.
 
-## 1. Subject of this data privacy statement
+## 1. Gegenstand dieser Datenschutzerklärung
 
 Diese Datenschutzerklärung gilt für die SPLAT TIM website und die SPLAT TIM Action für den Google Assistant. Diese Datenschutzerklärung regelt, wie ich mit Deinen personenbezogenen Daten umgehe.
 
