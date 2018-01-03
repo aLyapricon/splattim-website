@@ -2,7 +2,7 @@
 
 global:
 
-  title: Splat Tim
+  title: Tintenfisch Tim
   fallback-desciption: Eine Action für den Google Assistant
 
   navigation:
@@ -20,23 +20,23 @@ global:
 pages: 
 
   e404:
-    title: 404 • Splat Tim
+    title: 404 • Tintenfisch
 
   index:
-    title: Splat Tim – Eine Action für den Google Assistant
-    description: Sprich mit Splat Tim um die freshesten Splatoon-Infos zu bekommen. Mit dem Google Assistant.
+    title: Tintenfisch Tim – Eine Action für den Google Assistant
+    description: Sprich mit Tintenfisch Tim um die freshesten Splatoon-Infos zu bekommen. Mit dem Google Assistant.
 
   contact:
-    title: Kontakt • Splat Tim
-    description: Kontakt zu den Machern von Splat Tim.
+    title: Kontakt • Tintenfisch Tim
+    description: Kontakt zu den Machern von Tintenfisch Tim.
 
   privacy:
-    title: Datenschutz • Splat Tim
-    description: Datenschutz Informationen zu Splat Tim.
+    title: Datenschutz • Tintenfisch Tim
+    description: Datenschutz Informationen zu Tintenfisch Tim.
 
   commands:
-    title: Beispiele • Splat Tim
-    description: Eine Liste von Fragen, die Splat Tim beantworten kann.
+    title: Beispiele • Tintenfisch Tim
+    description: Eine Liste von Fragen, die Tintenfisch Tim beantworten kann.
 
 # content
 
@@ -44,16 +44,16 @@ content:
 
   index-woomy:
     intro:
-      title: Splat Tim
-      ok-google: Ok Google, sprich mit Splat Tim!
+      title: Tintenfisch Tim
+      ok-google: Ok Google, sprich mit Tintenfisch Tim!
       subline: Eine Action für deinen Google Assistant.
     signup:
       title: Warte auf Mitspieler...
-      subline: Splat Tim ist gerade im Review durch Google. Werde benachrichtigt, wenn Splat Tim für den Google Assistant verfügbar ist.
+      subline: Tintenfisch Tim ist gerade im Review durch Google. Werde benachrichtigt, wenn Tintenfisch Tim für den Google Assistant verfügbar ist.
       email-input-label: Email Adresse
       legal-text: Durch das Anmelden stimmst der <a href="/privacy/">Datenschutzerklärung</a> zu.
       submit-button-label: Anmelden!
     credits:
-      developed-by: Splat Tim wird von <a href="https://twitter.com/marcorei">@marcorei</a> entwickelt
+      developed-by: Tintenfisch Tim wird von <a href="https://twitter.com/marcorei">@marcorei</a> entwickelt
       data-from: Daten werden von der legendären <a href="https://splatoon2.ink">Splatoon2.ink</a> API geladen ❤️
       github: Open source auf <a href="https://github.com/marcorei/splattim-fulfillment">Github</a>

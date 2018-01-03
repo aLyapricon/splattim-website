@@ -1,8 +1,8 @@
 # Beispiele
 
-| User sagt... | Spla Tim does it |
+| User sagt... | Tintenfisch Tim macht es |
 | --- | --- |
-| "Sprich mit Splat Tim" | Wecke Splat Tim auf |
+| "Sprich mit Tintenfisch Tim" | Wecke Tintenfisch Tim auf |
 | "Zeige mir aktuellen die Arenen für den Standardkampf" | Listet die aktuell aktiven Arenen für Standardkampf. Geht auch für Rangkampf und Liga |
 | "Zeige mir alle aktuellen Arenen!" | Eine Übersicht über alle aktuellen Arenen in allen drei Modi |
 | "Zeige mit alle zukünftigen Arenen für Ligakämpfe!" | Eine lange Liste mit allen kommen Arenen für Liga. Auf möglich für Standardkampf und Rangkampf |
