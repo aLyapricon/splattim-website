@@ -9,3 +9,5 @@ namespace: contact
 ---
 
 {% translate_file contact.md %}
+
+{% include elements/button-coffee.html %}
