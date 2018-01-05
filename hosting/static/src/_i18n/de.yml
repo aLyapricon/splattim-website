@@ -2,7 +2,7 @@
 
 global:
 
-  title: Tintenfisch Tim
+  title: Tintenfisch Tony
   fallback-desciption: Eine Action für den Google Assistant
 
   navigation:
@@ -23,20 +23,20 @@ pages:
     title: 404 • Tintenfisch
 
   index:
-    title: Tintenfisch Tim – Eine Action für den Google Assistant
-    description: Sprich mit Tintenfisch Tim um die freshesten Splatoon-Infos zu bekommen. Mit dem Google Assistant.
+    title: Tintenfisch Tony – Eine Action für den Google Assistant
+    description: Sprich mit Tintenfisch Tony um die freshesten Splatoon-Infos zu bekommen. Mit dem Google Assistant.
 
   contact:
-    title: Kontakt • Tintenfisch Tim
-    description: Kontakt zu den Machern von Tintenfisch Tim.
+    title: Kontakt • Tintenfisch Tony
+    description: Kontakt zu den Machern von Tintenfisch Tony.
 
   privacy:
-    title: Datenschutz • Tintenfisch Tim
-    description: Datenschutz Informationen zu Tintenfisch Tim.
+    title: Datenschutz • Tintenfisch Tony
+    description: Datenschutz Informationen zu Tintenfisch Tony.
 
   commands:
-    title: Beispiele • Tintenfisch Tim
-    description: Eine Liste von Fragen, die Tintenfisch Tim beantworten kann.
+    title: Beispiele • Tintenfisch Tony
+    description: Eine Liste von Fragen, die Tintenfisch Tony beantworten kann.
 
 # content
 
@@ -44,16 +44,16 @@ content:
 
   index-woomy:
     intro:
-      title: Tintenfisch Tim
-      ok-google: Ok Google, sprich mit Tintenfisch Tim!
+      title: Tintenfisch Tony
+      ok-google: Ok Google, sprich mit Tintenfisch Tony!
       subline: Eine Action für deinen Google Assistant.
     signup:
       title: Warte auf Mitspieler...
-      subline: Tintenfisch Tim ist gerade im Review durch Google. Werde benachrichtigt, wenn Tintenfisch Tim für den Google Assistant verfügbar ist.
+      subline: Tintenfisch Tony ist gerade im Review durch Google. Werde benachrichtigt, wenn Tintenfisch Tony für den Google Assistant verfügbar ist.
       email-input-label: Email Adresse
       legal-text: Durch das Anmelden stimmst der <a href="/privacy/">Datenschutzerklärung</a> zu.
       submit-button-label: Anmelden!
     credits:
-      developed-by: Tintenfisch Tim wird von <a href="https://twitter.com/marcorei">@marcorei</a> entwickelt
+      developed-by: Tintenfisch Tony wird von <a href="https://twitter.com/marcorei">@marcorei</a> entwickelt
       data-from: Daten werden von der legendären <a href="https://splatoon2.ink">Splatoon2.ink</a> API geladen ❤️
       github: Open source auf <a href="https://github.com/marcorei/splattim-fulfillment">Github</a>
