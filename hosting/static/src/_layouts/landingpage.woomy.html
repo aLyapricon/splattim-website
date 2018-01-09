@@ -17,13 +17,21 @@ layout: landingpage
             </div>
         </div>
     </header>
+    <section class="section lp-about">
+        <div class="container">
+            <div class="content-container">
+                <p>{% translate content.index-woomy.about.info1 %} {% translate content.index-woomy.about.info2 %}</p>
+                <div class="cta-row">
+                    <a href="{% translate content.index-woomy.about.action-url %}" class="button">{% translate content.index-woomy.about.action-cta %}</a>
+                    <a href="{% translate_link commands %}" class="button is-primary">{% translate content.index-woomy.about.examples-cta %}</a>
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="section lp-form">
         <div class="container">
             <div class="form-container">
-                <header>
-                    <h2>{% translate content.index-woomy.signup.title %}</h2>
-                    <p>{% translate content.index-woomy.signup.subline %}</p>
-                </header>
+                <p>{% translate content.index-woomy.signup.subline %}</p>
                 {% include elements/landingpage.woomy.email-signup.html %}
             </div>
         </div>

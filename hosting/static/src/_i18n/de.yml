@@ -47,9 +47,14 @@ content:
       title: Tintenfisch Tony
       ok-google: Ok Google, sprich mit Tintenfisch Tony!
       subline: Eine Action für deinen Google Assistant.
+    about:
+      info1: Frage Tintenfisch Tony nach den aktuellen Arenen für Rangkampf, Ligakampf oder Standardkampf.
+      info2: Oder willst Du Salmon Run spielen oder wissen, was im Store verfügbar ist?
+      action-url: https://assistant.google.com/services/a/uid/000000c592ac878b?hl=de
+      action-cta: Zur Action
+      examples-cta: Beispiele ansehen
     signup:
-      title: Warte auf Mitspieler...
-      subline: Tintenfisch Tony ist gerade im Review durch Google. Werde benachrichtigt, wenn Tintenfisch Tony für den Google Assistant verfügbar ist.
+      subline: Setz Dich auf die Mailing-Liste um über Updates informiert zu werden.
       email-input-label: Email Adresse
       legal-text: Durch das Anmelden stimmst der <a href="/privacy/">Datenschutzerklärung</a> zu.
       submit-button-label: Anmelden!
