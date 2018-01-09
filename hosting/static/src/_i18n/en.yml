@@ -47,9 +47,14 @@ content:
       title: Splat Tim
       ok-google: Ok Google, talk to Splat Tim!
       subline: An Action for your Google Assistant.
+    about:
+      info1: Ask Splat Tim about the current stages for ranked mode, league mode or regular battles.
+      info2: Or do you want to play Salmon Run or want to know what merchandise is available?
+      action-url: https://assistant.google.com/services/a/uid/000000c592ac878b?hl=en
+      action-cta: Got to Action
+      examples-cta: See examples
     signup:
-      title: Waiting for players...
-      subline: Splat Tim is currently in review by Google. Get notified when the Action is available for your Google Assistant.
+      subline: Join the mailing list to get informed about new updates!
       email-input-label: Email Address
       legal-text: By signing up you agree to the <a href="/privacy/">privacy policy</a>.
       submit-button-label: Sign me up!
