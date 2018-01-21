@@ -53,6 +53,12 @@
 }
 
 .lp-about {
+    h2 {
+        color: $color-woomy-green;
+        font-size: 1.6rem;
+        margin-bottom: 1rem;
+    }
+
     .content-container {    
         max-width: 500px;
         margin: 0 auto;
@@ -67,9 +73,9 @@
     }
 
     .button.is-primary {
-        background-color: $color-woomy-dark-green;
+        background-color: $color-woomy-green;
         &:hover {
-            background-color: $color-woomy-green;
+            background-color: $color-woomy-dark-green;
         }
     }
 
@@ -77,6 +83,8 @@
 }
 
 .lp-form {
+    background-color: #83c7bb;
+
     .form-container {
         max-width: 500px;
         margin: 0 auto;
@@ -84,27 +92,40 @@
     }
 
     h2 {
-        font-weight: 700;
-        font-size: 16pt;
-        margin-bottom: 15px;
-        margin-top: 8px;
+        color: #fff;
+        font-size: 1.6rem;
+        margin-bottom: 1rem;
+        text-align: center;
+    }
+
+    p {
+        text-align: center;
     }
 
     #mc_embed_signup {
-        margin-top: 10px;
+        //margin: 0 auto;
+        //max-width: 400px;
+        margin-top: 2rem;
     }
 
     .email-field {
         label {
-            color: $color-woomy-dark-green;
+            color: #fff;
             display: block;
             margin-bottom: 5px;
+            font-weight: 700;
         }
     }
 
     p.legal {
+        font-size: 0.8rem;
         margin-top: 5px;
         margin-bottom: 5px;
+        text-align: left;
+
+        a {
+            color: #fff;
+        }
     }
 
     .button {
@@ -121,12 +142,29 @@
 }
 
 footer {
-    background-color: #f1f1f1;
+    background-color: #333;
+    padding-top: 1rem;
+
 
     .footer-navbar .navbar-menu {
+        background-color: #333;
+
         .navbar-start {
             justify-content: center;
             margin: auto;
+
+            .navbar-item {
+                color: #fff;
+
+                &:hover {
+                    background-color: #000;
+                    color:  $color-woomy-light-green;
+                }
+            }
         }
+    }
+
+    .legal-note {
+        text-align: center;
     }
 }

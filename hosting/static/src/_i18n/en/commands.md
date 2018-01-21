@@ -9,3 +9,5 @@
 | "How long do I have to wait to play zones in ranked mode?" | Tells you how long you have to wait for splat zones to become available for ranked. Works for all game types. For ranked and league |
 | "When can I play Salmon Run?" | Tells you if or when Salmon Run is available next, on which map and with what weapons. |
 | "What items are available in the shop?" | Lists all items that you can order on SplatNet |
+| "Who won the last Splatfest in North America?" | Shows the result of the last SplatFest in North America. Also works for Europe and Japan. |
+| "When is the next Splatfest in Europe?" | Checks if there is info available on an upcoming Splatfest in Europe. Also works for North America and Japan. |

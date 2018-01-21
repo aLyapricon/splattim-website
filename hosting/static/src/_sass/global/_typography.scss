@@ -1,12 +1,15 @@
 h1, h2, h3, h4, strong, p, li, div {
     font-family: 'Roboto', 'Segoe UI', Helvetica, Arial, sans-serif;
     font-weight: 400;
-    color: #444;
+    color: #000;
 }
 
 .content {
     h1, h2, h3, h4, strong {
-        font-weight: 700;
-        color: $color-woomy-dark-green;
+        color: $color-woomy-green;
     }
+}
+
+a {
+    color: $color-woomy-light-green;
 }

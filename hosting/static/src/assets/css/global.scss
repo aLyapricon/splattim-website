@@ -18,3 +18,14 @@
 @import "../_sass/global/_typography.scss";
 @import "../_sass/global/_navbar.scss";
 @import "../_sass/global/_header.scss";
+
+
+footer {
+    .legal-note {
+        color: #777;
+        padding-top: 2rem;
+        font-size: 0.7rem;
+    }
+
+    padding-bottom: 2rem;
+}
