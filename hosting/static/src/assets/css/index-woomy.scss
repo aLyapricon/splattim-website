@@ -57,6 +57,7 @@
         color: $color-woomy-green;
         font-size: 1.6rem;
         margin-bottom: 1rem;
+        font-weight: 700;
     }
 
     .content-container {    
@@ -79,11 +80,11 @@
         }
     }
 
-    border-bottom: 1px #ccc solid;
 }
 
 .lp-form {
-    background-color: #83c7bb;
+    background: #83c7bb
+        url('/assets/img/global/bg-wavy.png') center/100px repeat;
 
     .form-container {
         max-width: 500px;
@@ -96,6 +97,7 @@
         font-size: 1.6rem;
         margin-bottom: 1rem;
         text-align: center;
+        font-weight: 700;
     }
 
     p {
@@ -103,8 +105,6 @@
     }
 
     #mc_embed_signup {
-        //margin: 0 auto;
-        //max-width: 400px;
         margin-top: 2rem;
     }
 
@@ -130,6 +130,21 @@
 
     .button {
         margin-top: 10px;
+    }
+
+    @include desktop {
+        background: none;
+        padding-top: 0;
+
+        .container {
+            padding: 40px;
+            max-width: 500px;
+            margin: 0 auto;
+            border-radius: 20px;
+
+            background: #83c7bb
+                url('/assets/img/global/bg-wavy.png') center/100px repeat;
+        }
     }
 }
 
