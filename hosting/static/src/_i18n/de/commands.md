@@ -11,3 +11,4 @@
 | "Welche Ausrüstung ist aktuell im Angebot?" | Listet Ausrüstung, die du im SplatNet kaufen kannst |
 | "Wann ist das nächste Splatfest in Europa?" | Checkt, ob Informationen zu einem Splatfest in Europa verfügbar sind. Geht auch für Nord Amerika und Japan |
 | "Wer hat das letzte Splatfest in Nord Amerika gewonnen?" | Zeigt Dir das Ergebnis des letzten Splatfest in Nord Amerika. Funktioniert auch mit Europa und Japan |
+| "Wann kann ich im Korallenviertel spielen?" | Suche in Zeitplan nach der Arena |
