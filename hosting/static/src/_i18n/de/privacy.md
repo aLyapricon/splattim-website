@@ -4,20 +4,20 @@ SPLAT TIM ist eine Applikation, die von Markus Riegel entwickelt wird. Ich nehme
 
 ## 1. Gegenstand dieser Datenschutzerklärung
 
-Diese Datenschutzerklärung gilt für die SPLAT TIM website und die SPLAT TIM Action für den Google Assistant. Diese Datenschutzerklärung regelt, wie ich mit Deinen personenbezogenen Daten umgehe.
+Diese Datenschutzerklärung gilt für alle Services von SPLAT TIM, welche die SPLAT TIM website, die SPLAT TIM Action für den Google Assistant und den SPLAT TIM Skill für Amazon Alexa umfassen. Diese Datenschutzerklärung regelt, wie ich mit Deinen personenbezogenen Daten umgehe.
 
 ## 2. Erhebung, Nutzung von Daten und Übermittlung an Dritte
 
 ### a. Erhobene Daten in Zusammenhang mit der Nutzung der SPLAT TIM Action für den Google Assistant
 
-- Die erhobenen Daten umfassen die Nutzereingaben im Google Assistant,
-- wenn du auf die SPLAT TIM Action für Google zugreifst, zum Beispiel via Spracheingabe, Texteingabe oder indem du mit Interface-Elementen interagierst, die der Google Assistant anzeigt.
-- Darüber hinaus können gegebenenfalls anonymisierte Tracking-Daten zum Nutzverhalten durch den Google Assitant, Actions on Google, Dialogflow, Firebase oder Amazon Web Services gesammelt werden (vergleiche nachfolgend)
+- Die erhobenen Daten umfassen die Nutzereingaben im Google Assistant und via Amazon Alexa,
+- wenn du auf die SPLAT TIM Action für Google oder Skill für Amazon Alexa zugreifst, zum Beispiel via Spracheingabe, Texteingabe oder indem du mit Interface-Elementen interagierst, die der Google Assistant, Amazon ALexa oder Smart Devices anzeigen.
+- Darüber hinaus können gegebenenfalls anonymisierte Tracking-Daten zum Nutzverhalten durch den Google Assitant, Actions on Google, Dialogflow, Firebase, Amazon Alexa oder Amazon Web Services gesammelt werden (vergleiche nachfolgend)
 
 ### b. Umfang der Verarbeitung und Nutzung personenbezogener Daten
 
 Ich nutze personenbezogene Daten, um
-- die Leistungen von SPLAT TIM erbringen zu können, diese laufen auszuweiten und die Anforderungen der Nutzer zu erfüllen;
+- die Leistungen von SPLAT TIM erbringen zu können, diese laufend auszuweiten und die Anforderungen der Nutzer zu erfüllen;
 - SPLAT TIM zu betreiben und zu verbessern;
 - meinen rechtlichen Pflichten nachzukommen.
 
@@ -43,20 +43,23 @@ c. Von den Fällen der Ziffern 3a und 3b abgesehen übermittel ich deine Daten g
 ## 4. Von SPLAT TIM genutzte Dienste Dritter
 
 a. Actions for Google
-Ich nutze Actions for Google um den Anfrage, die du durch den Google Assistant gestellt hast, zu erfüllen. Der Google Assistant und Actions for Google sind Produkte von Google. Die Datenschutzerklärung von Google findest Du unter https://www.google.com/policies/privacy/
+Ich nutze Actions for Google um die Anfrage, die du durch den Google Assistant gestellt hast, zu erfüllen. Der Google Assistant und Actions for Google sind Produkte von Google. Die Datenschutzerklärung von Google findest du unter https://www.google.com/policies/privacy/
 
-b. Dialogflow
-Zudem nutze ich Dialogflow um deine Eingabe mit Hilfe von Machine-Learning-Technologie in Aktionen und Parameter umzuwandeln. Dialogflow analysiert, was du gesgat oder geschrieben hast und hilft mir, möglichst hilfreich zu antworten. Die von Dialogflow übermittelten Daten enthalten keine persistenten Identifikatoren.
+b. Amazon Alexa
+Ich nutze außerdem Amazon Alexa um Anfragen, die du durch Amazon Alexa gestellt hast, zu erfüllen. Alexa ist ein Produkt von Amazon. Die Datenschutzerklärung von Amazon fidnest du unter https://www.amazon.com/gp/help/customer/display.html?nodeId=468496
+
+c. Dialogflow
+Zudem nutze ich Dialogflow um deine Eingabe mit Hilfe von Machine-Learning-Technologie in Aktionen und Parameter umzuwandeln. Dialogflow analysiert, was du gesagt oder geschrieben hast und hilft mir, möglichst hilfreich zu antworten. Die von Dialogflow übermittelten Daten enthalten keine persistenten Identifikatoren.
 Dialogflow ist eine Google-Tochter. Nähere Informationen über die Datenerhebung und Verarbeitung findest Du in der Datenschutzerlärung von Dialogflow unter https://dialogflow.com/terms-and-privacy
 
-c. AWS (Amazon Web Services)
-Ferner nutze ich AWS um die von Dialogflow erhaltenen Daten zu verarbeiten. Diese Daten werden genutzt, um Informationen zu filtern, die von splatoon2.ink geladen werden und nützliche Informationen zurückzugeben.
-AWS ist eine Tochtergesellschaft der Amazon.com, Inc. oder eines mit diese Gesellschaft berbundenes Unternehmen. Weitere Informationen findest DU in den Datenschutzbestimmungen von AWS unter https://aws.amazon.com/privacy/
+d. AWS (Amazon Web Services)
+Ferner nutze ich AWS um die von Dialogflow und Amazon Alexa erhaltenen Daten zu verarbeiten. Diese Daten werden genutzt, um Informationen zu filtern, die von splatoon2.ink geladen werden und nützliche Informationen zurückzugeben.
+AWS ist eine Tochtergesellschaft der Amazon.com, Inc. oder eines mit diese Gesellschaft berbundenes Unternehmen. Weitere Informationen findest du in den Datenschutzbestimmungen von AWS unter https://aws.amazon.com/privacy/
 
-d. Firebase
+e. Firebase
 Ich nutze Firebase, um die SPLAT TIM Website zu hosten. Firebase ist eine Google-Tocher. Die Datenschutzerklärung von Google findest Du unter https://www.google.com/policies/privacy/
 
-e. Mailchimp
+f. Mailchimp
 Ich nutze MailChimp zur Verwaltung einer Datenbank mit E-Mail-Adressen, sowie zum Versenden von E-Mails. Der Dienst verwaltet Daten darüber, wann eine E-Mail, die wir verschickt haben gelesen wurde, oder darin enthaltene Links geöffnet wurden. MailChimp ist ein Dienst der Rocket Science Group LLC. Weitere Informationen zu MailChimp findest Du unter https://mailchimp.com/legal/privacy/
 
 ## 5. Deletion of data

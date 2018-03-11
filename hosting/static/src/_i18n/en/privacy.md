@@ -4,15 +4,15 @@ SPLAT TIM is an application created by Markus Riegel. I take your privacy seriou
 
 ## 1. Subject of this data privacy statement
 
-This data privacy statement applies to the SPLAT TIM website and the SPLAT TIM Action for Google Assistant. The privacy statement regulates how I handle your personal data.
+This data privacy statement applies to all services of SPLAT TIM, which are the SPLAT TIM website, the SPLAT TIM Action for Google Assistant und the SPLAT TIM Skill for Amazon Alexa. The privacy statement regulates how I handle your personal data.
 
 ## 2. Gathering and using data and transmitting it to third parties
 
-### a. Data gathered with the use of the SPLAT TIM Action for Google Assistant
+### a. Data gathered with the use of the SPLAT TIM
 
-- The data gathered includes the input you provide to the Google Assistant,
-- You access the SPLAT TIM Action for Google including by speech input, text input or tapping on user interface elements display in the Google Assistant.
-- Furthermore, any anonymised tracking data on user behaviour may be gathered by means of Google Assitant, Actions on Google, Dialogflow, Firebase or Amazon Web Services (see below)
+- The data gathered includes the input you provide to the Google Assistant and Amazon Alexa,
+- You access the SPLAT TIM Action and Skill including by speech input, text input or tapping on user interface elements displayed in either the Google Assistant, the Amazon Alexa app or on smart devices.
+- Furthermore, any anonymised tracking data on user behaviour may be gathered by means of Google Assitant, Actions on Google, Dialogflow, Firebase, Amazon Alexa or Amazon Web Services (see below)
 
 ### b. Scope of the processing and use of personal data.
 
@@ -45,18 +45,21 @@ c. Except for the cases outlined in Clauses 3a and 3b, I do not transmit your da
 a. Actions for Google
 I use Actions for Google to invoke an action to fulfill the request that you provided by using Google Assistant. Google Assistant and Actions for Google are products by Google. You can find the privacy statement of Google at https://www.google.com/policies/privacy/
 
-b. Dialogflow
-In addition, I use Dialogflow to convert your input into Actions and Parameters using machine learning. Dialogflow analyzeds what you said or wrote and helps me to repond in the most useful way. The data transmitted by Dialogflow to SPLAT TIM contains no persistent identifiers.
+b. Amazon Alexa
+I also use Amazon Alexa to invoke a skill to fulfill the request that you provided by using Amazon Alexa. Alexa is a product by Amazon. You can find the privacy statement of Amazon at https://www.amazon.com/gp/help/customer/display.html?nodeId=468496
+
+c. Dialogflow
+In addition, I use Dialogflow to convert your input into Actions and Parameters using machine learning. Dialogflow analyzes what you said or wrote and helps SPLAT TIM to repond in the most useful way. The data transmitted by Dialogflow to SPLAT TIM contains no persistent identifiers.
 Dialogflow is a subsidiary of Google.
 You can find out more about Dialogflow privacy and terms at https://dialogflow.com/terms-and-privacy
 
-c. AWS (Amazon Web Services)
-I use AWS to process the input provided by Dialogflow. This input is used to filter data collected from the splatoon2.ink API and return useful information. AWS is a subsidiary of Amazon.com, Inc. or a company affiliated with the latter (“Amazon.com”). You can obtain further information in the data privacy provisions of AWS at https://aws.amazon.com/privacy/
+d. AWS (Amazon Web Services)
+I use AWS to process the input provided by Dialogflow and Amazon Alexa. This input is used to filter data collected from the splatoon2.ink API and return useful information. AWS is a subsidiary of Amazon.com, Inc. or a company affiliated with the latter (“Amazon.com”). You can obtain further information in the data privacy provisions of AWS at https://aws.amazon.com/privacy/
 
-d. Firebase
+e. Firebase
 In addition, I use Firebase for hosting the SPLAT TIM website. Firebase is a subsidiary of Google. You can find the privacy statement of Google at https://www.google.com/policies/privacy/
 
-e. Mailchimp
+f. Mailchimp
 I use MailChimp to administer a database with e-mail addresses, as well as to send e-mails. The service administers data when an e-mail that I have sent was read, or when links contained in it were opened. MailChimp is a service of Rocket Science Group LLC. You can find further information on MailChimp at https://mailchimp.com/legal/privacy/
 
 ## 5. Deletion of data
