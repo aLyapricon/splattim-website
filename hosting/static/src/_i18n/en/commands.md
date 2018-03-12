@@ -2,7 +2,7 @@
 
 | User says... | Splat Tim does it |
 | --- | --- |
-| "Talk to Splat Tim" | Start talking to Splat Tim |
+| "Open Splat Tim" | Start talking to Splat Tim |
 | "Show me the current stages for ranked battles" | List the current stages for ranked. Can also be used for regular and league |
 | "Show me all current stages" | This will give you an overview for the current stage of all three modes |
 | "Show me every upcoming stage for league battles" | A long list of all upcoming stages for league battles. Also available for regular and ranked |
