@@ -45,14 +45,15 @@ content:
   index-woomy:
     intro:
       title: Tintenfisch Tony
-      ok-google: Ok Google, mit Tintenfisch Tony sprechen!
-      subline: Eine Action für deinen Google Assistant.
+      subline: Für den Google Assistant und Amazon Alexa
     about:
       headline: Frage Tintenfisch Tony...
       info1: ...nach den aktuellen Arenen für Rangkampf, Ligakampf oder Standardkampf.
       info2: Oder willst Du Salmon Run spielen oder wissen, was im Store verfügbar ist?
       action-url: https://assistant.google.com/services/a/uid/000000c592ac878b?hl=de
-      action-cta: Zur Action
+      action-cta: Google Assistant
+      skill-url: https://google.com/todo/replace
+      skill-cta: Amazon Alexa
       examples-cta: Beispiele ansehen
     signup:
       headline: Mailing-Liste
