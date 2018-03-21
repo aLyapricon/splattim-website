@@ -52,7 +52,7 @@ content:
       info2: Oder willst Du Salmon Run spielen oder wissen, was im Store verfügbar ist?
       action-url: https://assistant.google.com/services/a/uid/000000c592ac878b?hl=de
       action-cta: Google Assistant
-      skill-url: https://google.com/todo/replace
+      skill-url: https://www.amazon.de/dp/B07BD39BR4/
       skill-cta: Amazon Alexa
       examples-cta: Beispiele ansehen
     signup:
