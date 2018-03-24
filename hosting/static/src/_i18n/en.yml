@@ -45,14 +45,15 @@ content:
   index-woomy:
     intro:
       title: Splat Tim
-      ok-google: Ok Google, talk to Splat Tim!
-      subline: An Action for your Google Assistant.
+      subline: for the Google Assistant and Amazon Alexa
     about:
       headline: Ask Splat Tim...
       info1: ...about the current stages for ranked mode, league mode or regular battles.
       info2: Or do you want to play Salmon Run or want to know what merchandise is available?
       action-url: https://assistant.google.com/services/a/uid/000000c592ac878b?hl=en
-      action-cta: Got to Action
+      action-cta: Google Assistant
+      skill-url: https://www.amazon.com/dp/B07BD39BR4/
+      skill-cta: Amazon Alexa
       examples-cta: See examples
     signup:
       headline: Mailing List

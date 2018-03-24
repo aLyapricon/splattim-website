@@ -2,7 +2,7 @@
 
 | User sagt... | Tintenfisch Tony macht es |
 | --- | --- |
-| "Mit Tintenfisch Tony sprechen" | Wecke Tintenfisch Tony auf |
+| "Starte Tintenfisch Tony" | Wecke Tintenfisch Tony auf |
 | "Zeige mir die aktuellen Arenen für den Standardkampf" | Listet die aktiven Arenen für den Standardkampf. Funktioniert auch mit Rangkampf und Liga |
 | "Zeige mir alle aktuellen Arenen!" | Eine Übersicht aller aktuellen Arenen in allen drei Modi |
 | "Zeige mit alle zukünftigen Arenen für Ligakämpfe!" | Eine lange Liste mit allen kommen Arenen für Liga. Auf möglich für Standardkampf und Rangkampf |
