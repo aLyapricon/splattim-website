@@ -3,7 +3,7 @@
 global:
 
   title: Tintenfisch Tony
-  fallback-desciption: Eine Action für den Google Assistant
+  fallback-desciption: Verfügbar für den Google Assistant und Amazon Alexa
 
   navigation:
     home: Home
@@ -23,8 +23,8 @@ pages:
     title: 404 • Tintenfisch
 
   index:
-    title: Tintenfisch Tony – Eine Action für den Google Assistant
-    description: Sprich mit Tintenfisch Tony um die freshesten Splatoon-Infos zu bekommen. Mit dem Google Assistant.
+    title: Tintenfisch Tony – für den Google Assistant und Amazon Alexa
+    description: Sprich mit Tintenfisch Tony um die freshesten Splatoon-Infos zu bekommen. Verfügbar für den Google Assistant und Amazon Alexa.
 
   contact:
     title: Kontakt • Tintenfisch Tony

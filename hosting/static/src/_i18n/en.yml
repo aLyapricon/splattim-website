@@ -3,7 +3,7 @@
 global:
 
   title: Splat Tim
-  fallback-desciption: An Action for Google Assistant
+  fallback-desciption: Available for the Google Assistant and Amazon Alexa
 
   navigation:
     home: Home
@@ -23,8 +23,8 @@ pages:
     title: 404 • Splat Tim
 
   index:
-    title: Splat Tim – An Action for Google Assistant
-    description: Talk to Splat Tim to get the freshest Splatoon related infos with Google Assistant.
+    title: Splat Tim – for the Google Assistant and Amazon Alexa
+    description: Talk to Splat Tim to get the freshest Splatoon 2 related infos. Available for the Google Assistant and Amazon Alexa.
 
   contact:
     title: Contact • Splat Tim
